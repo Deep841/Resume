@@ -61,10 +61,10 @@ Gesture-controlled AI glasses using MediaPipe, PaddleOCR, and ESP32 to read & tr
 
 ## 📫 Connect With Me
 
-- 📧 Email: deepchaudhary@example.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 🧑‍💻 [GitHub](https://github.com/yourusername)  
-- 🌐 [Portfolio Website](https://yourportfolio.com) *(If any)*
+- 📧 Email: 2003deepdeep@gmail.com  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/deep-332437315/))  
+- 🧑‍💻 [GitHub]([https://github.com/yourusername](https://github.com/Deep841))  
+- 🌐 [Portfolio Website](https://deep841.github.io/myPortofolio/)
 
 ---
 
