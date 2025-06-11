@@ -54,8 +54,8 @@ Gesture-controlled AI glasses using MediaPipe, PaddleOCR, and ESP32 to read & tr
 
 ## 📜 Certifications
 
-- Android App Development Training Program – *Certificate*  
-- Microsoft Learn – *Certificate*
+- Android App Development Training Program  
+- Microsoft Learn 
 
 ---
 
