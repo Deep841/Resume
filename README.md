@@ -67,5 +67,3 @@ Gesture-controlled AI glasses using MediaPipe, PaddleOCR, and ESP32 to read & tr
 - 🌐 [Portfolio Website](https://deep841.github.io/myPortofolio/)
 
 ---
-
-> “Code with purpose. Learn with passion. Build with heart.” 💻❤️
